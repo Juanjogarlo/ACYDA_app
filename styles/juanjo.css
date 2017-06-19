@@ -1,0 +1,117 @@
+.btn-menu{
+	width:32%;
+	height:55px;
+	line-height: 40px!important;
+	margin-bottom: 5px!important;
+}
+.jumbotronjuanjologin{
+	padding-bottom: 180px!important;
+	margin-bottom: 15px!important;
+}
+.jumbotronjuanjo{
+	padding-top: 0px!important;
+	margin-bottom: 15px!important;
+}
+.jumbotronjuanjoseparador{
+	margin-top: 30px!important;
+	padding-bottom: 5px!important;
+	text-align: center;
+	font-size: 1.5em!important;
+}
+.cerrarsesion{
+	float: right;
+	position: relative;
+	top: 5px;
+	
+}
+.botonlogin{
+	padding-top: 10px!important;
+	margin-top: 10px!important;
+	width: 100%;
+	
+}
+
+.inputlogin{
+	width:100%;
+}
+
+.btn-100
+{
+		width:100%;
+}
+
+.checkboxjuanjo
+{
+  /* Double-sized Checkboxes */
+  -ms-transform: scale(2); /* IE */
+  -moz-transform: scale(2); /* FF */
+  -webkit-transform: scale(2); /* Safari and Chrome */
+  -o-transform: scale(2); /* Opera */
+  padding: 10px;
+  margin-left: 20px;
+}
+
+
+.btn-disable {
+  color: #fff;
+  background-color: #aa9594;
+  border-color: #aa9594;
+}
+.btn-disable:focus,
+.btn-disable.focus {
+  color: #fff;
+  background-color: #aa9594;
+  border-color: #aa9594;
+}
+.btn-disable:hover {
+  color: #fff;
+  background-color: #aa9594;
+  border-color: #aa9594;
+}
+#guardado{
+	position: fixed;
+    text-align: center;
+    top: 50%;
+    width: 92%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: #8BC34A;
+    color: white;
+    z-index: 99;
+    font-size: larger;
+	
+	
+}
+@media (min-width: 769px) {
+.col-md-33-juanjo{
+  width: 32%;
+  float:left;
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+}
+@media (max-width: 768px) {
+.col-md-33-juanjo{
+  width: 250px;
+  float:left;
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+@media (max-width: 500px) {
+.col-md-33-juanjo{
+  width: 100%;
+  float:left;
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+#Jtabla_info{
+	font-size:0.9em;
+	
+}
+}
