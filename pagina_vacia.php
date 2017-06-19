@@ -28,7 +28,6 @@ sec_session_start();
 			</div>
 	
         <?php if (login_check($mysqli) == true) : ?>
-            
 			<?php 
  
 			
